@@ -8,10 +8,10 @@ This project is one of the phase 3 of [GAP](https://www.genomicsforaustralianpla
 
 Name: *Hibbertia scandens* (climbing guinea flower)
 
-<figure align="center">
+<p align="center">
   <img src="https://www.genomicsforaustralianplants.com/wp-content/uploads/2021/09/Hibbertia-scandens-1-1024x683.jpg" alt="fig01" width = 500/>
   <figcaption>Reproduced with permission from Tim Hammer</figcaption>
-</figure>
+</p>
 
 Aim: Reference genomes (Phase 3 project)
 
