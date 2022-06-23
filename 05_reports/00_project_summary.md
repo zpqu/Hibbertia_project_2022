@@ -1,22 +1,14 @@
----
-title:  "Project summary for de novo assembly of Hibbertia reference genome"
-author:  "Zhipeng Qu, Adelson Lab, The University of Adelaide"
-date:   "22/06/2022"
-output: 
-    html_document:
-        toc:                true
-        toc_depth:          2
-        toc_float:          true
-        number_sections:    true
----
+# Project summary for de novo assembly of Hibbertia reference genome
 
-# Background 
+**Date: 22/06/2022**
+
+## Background 
 
 This project is one of the phase 3 of [GAP](https://www.genomicsforaustralianplants.com/hibbertia-scandens/) (Genomics for Australian Plants):
 
 Name: Hibbertia scandens (climbing guinea flower)
 
-![Reproduced with permission from Tim Hammer](./figures/00_Fig1_Hibbertia_scandens.jpg)(https://www.genomicsforaustralianplants.com/wp-content/uploads/2021/09/Hibbertia-scandens-1-1024x683.jpg)
+![Reproduced with permission from Tim Hammer](./figures/00_fig01_Hibbertia_scandens.jpg)(https://www.genomicsforaustralianplants.com/wp-content/uploads/2021/09/Hibbertia-scandens-1-1024x683.jpg)
 
 Aim: Reference genomes (Phase 3 project)
 
