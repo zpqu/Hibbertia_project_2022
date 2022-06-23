@@ -11,7 +11,7 @@ Name: *Hibbertia scandens* (climbing guinea flower)
 <figure>
   <img src="https://www.genomicsforaustralianplants.com/wp-content/uploads/2021/09/Hibbertia-scandens-1-1024x683.jpg" alt="fig01" width = 500/>
   <figcaption>Reproduced with permission from Tim Hammer</figcaption>
-</figure>
+</figure><center>
 
 Aim: Reference genomes (Phase 3 project)
 
