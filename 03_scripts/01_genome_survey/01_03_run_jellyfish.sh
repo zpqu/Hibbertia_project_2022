@@ -22,7 +22,7 @@ else
 fi
 
 # Set kmer variable to include kmers to run
-kmer=(12 15 18 21 24 27 30)
+kmer=(15 18 21 24 27 30)
 
 # Run jellyfish
 # Note, -s 16G, setting this parameter as 32G requires more than 64G memory
