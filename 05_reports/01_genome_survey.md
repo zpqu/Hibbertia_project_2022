@@ -64,5 +64,21 @@ In Phoenix [23/06/2022]
 **Note:**
 Job for kmer=12 failed due to out of memory issue (memory = 128Gb). Therefore kmer=12 was ignored in following anaysis.
 
+### 3.4 Genome survey using genomescope
+
+[27/06/2022]
+
+**packages:**
+- genomescope.R (v1)
+
+**Scripts:**
+1. 01_04_run_genomescope.sh
+
+**Jobs:**
+1. This step was carried out in freebie, because genomescope requires X11.
+
+**Runtime:**
+1. 5 mins (1 cpus)
+
 ## 4 Additional information
 
