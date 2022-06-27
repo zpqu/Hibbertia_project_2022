@@ -69,7 +69,7 @@ Job for kmer=12 failed due to out of memory issue (memory = 128Gb). Therefore km
 [27/06/2022]
 
 **packages:**
-- genomescope.R (v1)
+- genomescope.R (v1, externalScripts)
 
 **Scripts:**
 1. 01_04_run_genomescope.sh
@@ -79,6 +79,22 @@ Job for kmer=12 failed due to out of memory issue (memory = 128Gb). Therefore km
 
 **Runtime:**
 1. 5 mins (1 cpus)
+
+### 3.5 Genome size estimation using estimate_gSize_kmer
+
+[27/06/2022]
+
+**packages:**
+- estimate_gSize_kmer.R (in house R script, externalScripts)
+
+**Scripts:**
+1. 01_05_run_estimate_gSize_kmer.sh
+
+**Jobs:**
+1. This step was carried out in freebie.
+
+**Runtime:**
+1. 1 min (1 cpus)
 
 ## 4 Additional information
 
