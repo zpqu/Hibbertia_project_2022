@@ -38,7 +38,7 @@ The availability of a reference genome will contribute to the ongoing study of D
 
 [22/06/2022]
 
-Illumina raw data were downloaded from this [link](https://data.bioplatforms.com/dataset?ext_search_by=&q=ticket%3ABPAOPS-1279) in Bioplatforms Australia Data portal.
+Illumina raw data were downloaded from this [link](https://data.bioplatforms.com/dataset?ext_search_by=&q=ticket%3ABPAOPS-1279) in Bioplatforms Australia Data portal. Follow the bulk download instructions. Add API Key to the "download.sh" file before run it.
 
 Saved folder: [boofhead] /data/zhipeng/Hibbertia_project_2022/raw_data/illumina
 
@@ -48,7 +48,7 @@ File size: 181.46Gb (4 fastq.gz files)
 
 [04/07/2022]
 
-ONT raw data were downloaded from this [link](https://data.bioplatforms.com/dataset?ext_search_by=&q=ticket%3ABPAOPS-1287) in Bioplatforms Australia Data portal.
+ONT raw data were downloaded from this [link](https://data.bioplatforms.com/dataset?ext_search_by=&q=ticket%3ABPAOPS-1287) in Bioplatforms Australia Data portal. See above for download info.
 
 Saved folder: [boofhead] /data/zhipeng/Hibbertia_project_2022/raw_data/ONT
 
