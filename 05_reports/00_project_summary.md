@@ -32,4 +32,25 @@ Project Description:
 
 The availability of a reference genome will contribute to the ongoing study of Dilleniaceae for the Flora of Australia. The addition of a Hibbertia reference genome would significantly enhance our ability to infer genomic diversity and links with genome evolution, ploidy and diversification in Hibbertia and Dilleniaceae.
 
+## Data
+
+### Illumina
+
+[22/06/2022]
+
+Illumina raw data were downloaded from this [link](https://data.bioplatforms.com/dataset?ext_search_by=&q=ticket%3ABPAOPS-1279) in Bioplatforms Australia Data portal.
+
+Saved folder: [boofhead] /data/zhipeng/Hibbertia_project_2022/raw_data/illumina
+
+File size: 181.46Gb (4 fastq.gz files)
+
+### ONT
+
+[04/07/2022]
+
+ONT raw data were downloaded from this [link](https://data.bioplatforms.com/dataset?ext_search_by=&q=ticket%3ABPAOPS-1287) in Bioplatforms Australia Data portal.
+
+Saved folder: [boofhead] /data/zhipeng/Hibbertia_project_2022/raw_data/ONT
+
+File size: 700.31Gb
 
