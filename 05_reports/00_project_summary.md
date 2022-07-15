@@ -48,9 +48,18 @@ File size: 181.46Gb (4 fastq.gz files)
 
 [04/07/2022]
 
-ONT raw data were downloaded from this [link](https://data.bioplatforms.com/dataset?ext_search_by=&q=ticket%3ABPAOPS-1287) in Bioplatforms Australia Data portal. See above for download info.
+ONT raw data were downloaded from this link [cell1](https://data.bioplatforms.com/dataset?ext_search_by=&q=ticket%3ABPAOPS-1287) in Bioplatforms Australia Data portal. See above for download info.
 
-Saved folder: [boofhead] /data/zhipeng/Hibbertia_project_2022/raw_data/ONT
-
+Saved folder: [boofhead] /data/zhipeng/Hibbertia_project_2022/raw_data/ONT/bpa_a77e02dc_20220703T2343
 File size: 700.31Gb
 
+[15/07/2022]
+
+ONT raw data from two additional flow cells were downloaded from the link [cell2](https://data.bioplatforms.com/dataset?ext_search_by=&q=ticket%3ABPAOPS-1300) and this link [cell3](https://data.bioplatforms.com/dataset?ext_search_by=&q=ticket%3ABPAOPS-1301) in Bioplatforms Australia Data portal. See above links for download info.
+
+Saved folder (cell 2): [boofhead] /data/zhipeng/Hibbertia_project_2022/raw_data/ONT/bpa_c48b1950_20220714T2358
+File size: 369.95Gb
+
+
+Saved folder (cell 3): [boofhead] /data/zhipeng/Hibbertia_project_2022/raw_data/ONT/bpa_a1e814ed_20220714T2359 
+Fiel size: 485.69Gb
