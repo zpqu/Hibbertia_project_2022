@@ -45,6 +45,20 @@ In Phoenix [23/06/2022]
 **Runtime:**
 1. 05:32:42 (16 cpus)
 
+**Results:**
+
+The following table (Table 1 ) summarise the number of raw reads and clean reads.
+
+|  | Lane001 | Lane002 | Total |
+|------------------------|--------------|--------------|--------------|
+| Raw_reads              | 734,525,722    | 673,509.272    | 1,408,034,994   |
+| Raw_bases              | 180,533,430,032 | 165,375,181,609 | 345,908,611,641 |
+| Clean_reads            | 609,292,914    | 555,133,394    | 1,164,426,308   |
+| Clean_reads_percentage | 82.95%       | 85.42%       | 82.70%       |
+| Clean_bases            | 119,299,432,547 | 108,582,008,665 | 227,881,441,212 |
+| Clean_bases_percentage | 66.08%       | 65.66%       | 65.88%       |
+:Table 1, summary of illumina reads.
+
 ### 3.3 Count kmer frequencies using Jellyfish
 
 [24/06/2022]
@@ -96,5 +110,22 @@ Job for kmer=12 failed due to out of memory issue (memory = 128Gb). Therefore km
 **Runtime:**
 1. 1 min (1 cpus)
 
-## 4 Additional information
+**Results:**
 
+The 21-mer frequencies of clean illumina reads is shown in following figure (Figure 1). In this figure, the X axis (Coverage) represents the 21-mers with a certern coverage, and the Y axis (Frequency) represents the frequencies (number of 21-mers) with a certern coverage. You normally can see two peaks (black lines) in a diploid genome, which are corresponding to estimated sequenced coverage for diploid (first peak) or haploid (second peak, which is normally two times of the first peak) genomes. In this figure, we can clearly see the first peak (~13 at X axis), and vaguely see the 2nd peak (at ~26 in X axis). 
+
+![image info](./plot.png)
+
+Based on the 21-mers coverage distribution, the estimated genomics statistics are shown in following Table 2. The result indicated that the estimated genome size is ~2.17 Gb, and possibly with a very high coverage of repetitive elements (> 80%), and high heterozygosity rate (> 2.04%).
+
+| property | min | max |
+| ------- | ------- | ------- |
+|Heterozygosity | 2.0456% | 2.05339% |
+|Genome Haploid Length | 2,168,787,725 bp | 2,171,826,594 bp |
+|Genome Repeat Length | 1,757,377,894 bp | 1,759,840,303 bp |
+|Genome Unique Length | 411,409,831 bp | 411,986,291 bp |
+|Model Fit | 88.9634% | 97.9604% |
+|Read Error Rate | 0.0120185% | 0.0120185% |
+:Table 2, summay of genome survey analysis.
+
+## 4 Additional information
